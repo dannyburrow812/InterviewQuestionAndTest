@@ -6,11 +6,11 @@ I answered a series of advanced multiple-choice questions covering various C# to
 
 ## Part 2: Code Review Challenge
 I analyzed and refactored a provided code snippet, identifying issues and suggesting improvements to enhance its readability, performance, and maintainability.
-[Check here](https://github.com/dannyburrow812/InterviewQuestionAndTest/blob/main/Part2.md)
+[Check here](https://github.com/dannyburrow812/InterviewQuestionAndTest/blob/main/part2.md)
 
 ## Part 3: Practical Coding Challenge
 I implemented a solution to a specific problem or feature request based on given requirements. Using C# and relevant frameworks, I ensured my code met criteria, adhered to best practices, and provided a functional solution.
-[Check here](https://github.com/dannyburrow812/InterviewQuestionAndTest/blob/main/Part3.md)
+[Check here](https://github.com/dannyburrow812/InterviewQuestionAndTest/blob/main/part3.md)
 
 
 
