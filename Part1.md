@@ -17,8 +17,7 @@ public class ExampleClass
 ```
 
 
-### Question 2: How does ASP.NET Core support the scaling of applications in a microservices 
-architecture? 
+### Question 2: How does ASP.NET Core support the scaling of applications in a microservices architecture? 
 Answer: (B) Through stateless design and built-in support for distributed caching.
 Explanation: ASP.NET Core supports scaling in a microservices architecture by promoting stateless design and offering built-in features for distributed caching.
 ```c#
@@ -51,8 +50,7 @@ public class Startup
 ```
 
 
-### Question 3: In Entity Framework, what is the difference between the DbSet.Add() and 
-DbContext.Attach() methods when dealing with entity tracking? 
+### Question 3: In Entity Framework, what is the difference between the DbSet.Add() and DbContext.Attach() methods when dealing with entity tracking? 
 Answer: (A) Add() sets the entity state to Added, while Attach() sets the state to Unchanged.
 Explanation: DbSet.Add() marks the entity as Added, while DbContext.Attach() marks it as Unchanged in terms of entity tracking.
 ```c#
@@ -71,8 +69,7 @@ public void ExampleMethod()
 
 ```
 
-### Question 4: What potential issue might arise from improper use of the Task.Wait() or Task.Result in 
-a C# asynchronous program? 
+### Question 4: What potential issue might arise from improper use of the Task.Wait() or Task.Result in a C# asynchronous program? 
 Answer (C) Deadlock, especially if the context is not properly managed.
 Explanation: Improper use of Task.Wait() or Task.Result can lead to deadlock, particularly if the context is not managed correctly.
 ```c#
